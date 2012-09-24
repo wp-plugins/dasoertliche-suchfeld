@@ -4,7 +4,7 @@
   Plugin URI: http://www.dasoertliche.de/downloads/wordpress-plugin/  
   Description: Das Örtliche-Suchfeld kann als Widget oder als Suchfeld im Content-Bereich eingesetzt werden.
   Version: 1.0.0
-  Author: Das Örtliche Service- und Marketinggesellschaft mbH
+  Author: dasoertliche-marketing
   Author URI: http://www.dasoertliche-marketing.de/
   License: GPL2
   License URI: license.txt

@@ -1,8 +1,6 @@
 ﻿=== Das Örtliche Suchfeld ===
 Contributors: DasÖrtliche Service- und Marketinggesellschaft mbH
 Tags: widget, sidebar, Suchfeld, Telefonbuch, Telefonnummer, Adresse, Suche, regional
-Author URI: http://www.dasoertliche-marketing.de
-Plugin URI: http://www.dasoertliche.de/downloads/wordpress-plugin/
 Requires at least: 3.0
 Tested up to: 3.4.2
 Stable tag: 1.0.0
