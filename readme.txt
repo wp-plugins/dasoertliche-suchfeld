@@ -1,6 +1,8 @@
 ﻿=== Das Örtliche Suchfeld ===
-Contributors: Das Örtliche Service- und Marketinggesellschaft mbH
+Contributors: DasÖrtliche Service- und Marketinggesellschaft mbH
 Tags: widget, sidebar, Suchfeld, Telefonbuch, Telefonnummer, Adresse, Suche, regional
+Author URI: http://www.dasoertliche-marketing.de
+Plugin URI: http://www.dasoertliche.de/downloads/wordpress-plugin/
 Requires at least: 3.0
 Tested up to: 3.4.2
 Stable tag: 1.0.0
@@ -26,12 +28,10 @@ Das Suchfeld im Das Örtliche-Design gibt es wahlweise:
 
 * mit zwei Eingabefeldern (Was/Wo) 
 Das Ortseingabefeld kann mit Ihrem bevorzugten Suchort vorbelegt werden ‒ besonders passend für Webseiten mit lokalem Bezug. 
-
 * mit einem einzigen Eingabefeld 
-Die kombinierte Eingabe von Suchwort und Ort ist möglich. 
-
+Die kombinierte Eingabe von Suchwort und Ort ist möglich.
 * als Mini-Suchfeld im neutralen Design
-Es ist, bei gleicher Funktionalität, besonders platzsparend und fügt sich unaufdringlich in jedes Webseiten-Design ein. 
+Es ist, bei gleicher Funktionalität, besonders platzsparend und fügt sich unaufdringlich in jedes Webseiten-Design ein.
 
 Für alle Formate kann ein Tastaturkürzel für den Schnellzugriff festgelegt werden.
 
@@ -43,21 +43,19 @@ Das Suchfeld wird sich automatisch der Breite Ihres Blogs oder CMS anpassen. Sol
 
 Das textintegrierte Suchfeld gibt es in zwei Ausführungen:
 
-* Suchfeld mit einem Eingabefeld:  eingabefelder="1"  
+* Suchfeld mit einem Eingabefeld:  eingabefelder="1"
+* Suchfeld mit zwei Eingabefeldern:  eingabefelder="2" Ein bevorzugter Ort kann vorbelegt werden: ort="Berlin"
 
-* Suchfeld mit zwei Eingabefeldern:  eingabefelder="2"
-Ein bevorzugter Ort kann vorbelegt werden: ort="Berlin"
 
-Beispiel für einen Makrobefehl
+Beispiel für einen Makrobefehl:
 
-Suchfeld: 	250 Pixel breit / zwei Eingabefelder / vordefinierter Ort
-
-Makrobefehl:	`[dasoertlichesuchfeld,  eingabefelder="2"  ort="Berlin" breite="250"]`
+Folgender Makrobefehl entspricht einem 250 Pixel breiten Suchfeld mit zwei Eingabefeldern und dem vordefinierten Ort 'Berlin': 
+`[dasoertlichesuchfeld,  eingabefelder="2"  ort="Berlin" breite="250"]`
 
 
 == Frequently Asked Questions ==
 
-Weitere Informationen und häufig gestellte Fragen finden Sie auf der [Plugin-Seite von Das Örtliche](http://www.dasoertliche.de/downloads/wordpress-plugin/faq/)
+Weitere Informationen und häufig gestellte Fragen finden Sie auf der [Plugin-Seite von Das Örtliche](http://www.dasoertliche.de/downloads/wordpress-plugin/faq/).
 
 == Installation ==
 
