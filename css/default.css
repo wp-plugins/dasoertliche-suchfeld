@@ -1,0 +1,431 @@
+/*
+*/
+.dasoertlicheinputfield{
+   margin-bottom: 3px;
+}
+#oesearchterm {
+	background:#fff url(http://www.dasoertliche.de/img/oe_searchbox.gif) 0 -150px no-repeat;
+   width: 145px;
+   height: 26px;
+}
+#oesearchregion {
+	background:#fff url(http://www.dasoertliche.de/img/oe_searchbox.gif) 0 -300px no-repeat;
+   width: 145px;
+   height: 26px;
+}
+
+
+.oetbreset * {
+background:none;
+border:none;
+border-radius:0 !important; 
+border-collapse:collapse;
+border-spacing:0;
+clear:none;
+box-shadow:0;
+color:#fff;
+cursor:default;
+float:none;
+font:normal 13px/normal Arial, Helvetica, sans-serif;
+height:auto;
+width:auto;
+letter-spacing:normal;
+margin:0;
+padding:0;
+max-width:none;
+max-height:none;
+min-width:0;
+min-height:0;
+outline-color:invert;
+overflow:visible;
+position:static;
+table-layout:auto;
+text-align:left;
+text-decoration:none;
+text-indent:0;
+text-shadow:0;
+text-transform:none;
+visibility:visible;
+vertical-align:top;
+word-spacing:normal;
+
+-webkit-border-radius:0;
+-webkit-box-shadow:0;
+-moz-border-radius:0;
+-moz-box-shadow:0;
+}
+
+.oetbreset input {
+	background-color: #FFFFFF;
+}
+/*Single*/
+.oetb_single {
+     border: 1px solid #024f99;
+     background: #FFF;
+     padding: 0 0 8px 5px;
+     top: 0;
+     left: 0;
+     min-width: 180px;
+     line-height: normal;
+ }
+
+.oetb_single form {
+    margin:0;
+    padding:0;
+}
+
+.oetb_single .oetbblue {
+    width: 100%;
+    height: 170px;
+    background: #024f99;
+}
+
+.oetb_single .oetbwhite {
+    height: 63px;
+    width: 100%;
+    background: #fff;
+}
+
+.oetb_single img {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.oetb_single .oetbslogan {
+    margin: 20px 0 0 12px;
+    padding: 5px 0 0 0;
+    width: 88%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #FFF;
+    font-weight: bold;
+}
+
+.oetb_single .oetbentry {
+    margin: 0 10px;
+}
+
+.oetb_single label {
+    display: none;
+}
+
+.oetb_single input[type="text"] {
+    width: 100%;
+    padding: 0 0 0 2px;
+    margin: 0;
+    border: 1px solid #666;
+    height: 19px;
+    font-size: 13px!important;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #999!important;
+    line-height: normal!important;
+}
+
+.oetb_single input[type="image"] {
+    float: right;
+    margin: 5px -2px 0 0;
+}
+
+/*Combi*/
+
+.oetb_combi {
+    border: 1px solid #024f99;
+    background: #FFF;
+    padding: 0 0 8px 5px;
+    top: 0;
+    left: 0;
+    min-width: 180px;
+    line-height: normal;
+}
+
+.oetb_combi form {
+    margin: 0;
+    padding: 0;
+}
+
+.oetb_combi .oetbblue {
+    width: 100%;
+    height: 195px;
+    background: #024f99;
+}
+
+.oetb_combi .oetbwhite {
+    height: 63px;
+    width: 100%;
+    background: #fff;
+}
+
+.oetb_combi img {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.oetb_combi .oetbslogan {
+    margin: 20px 0 0 12px;
+    padding: 5px 0 0 0;
+    width: 88%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #FFF;
+    font-weight: bold;
+}
+
+.oetb_combi .oetbentry {
+    margin: 0 10px;
+}
+
+.oetb_combi label {
+    display: none;
+}
+
+.oetb_combi input[type="text"] {
+    width: 100%;
+    padding: 0 0 0 2px;
+    margin: 0 0 5px 0;
+    border: 1px solid #666;
+    height: 19px;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #999;
+    line-height: normal;
+}
+
+.oetb_combi input[type="image"] {
+    float: right;
+    margin: 0 -2px 0 0;
+}
+
+/*Combi_wide*/
+
+.oetb_combi_wide {
+    border: 1px solid #024f99;
+    background: #FFF;
+    padding: 0 0 8px 5px;
+    top: 0;
+    left: 0;
+    min-width: 180px;
+    line-height: normal;
+}
+
+.oetb_combi_wide form {
+    margin: 0;
+    padding: 0;
+}
+
+.oetb_combi_wide .oetbblue {
+    width: 100%;
+    height: 169px;
+    background: #024f99;
+}
+
+.oetb_combi_wide .oetbwhite {
+    height: 63px;
+    width: 100%;
+    background: #fff;
+}
+
+.oetb_combi_wide img {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.oetb_combi_wide .oetbslogan {
+    margin: 20px 0 0 12px;
+    padding: 5px 0 0 0;
+    width: 88%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #FFF;
+    font-weight: bold;
+}
+
+.oetb_combi_wide .oetbentry {
+    margin: 0 10px;
+}
+
+.oetb_combi_wide label {
+    display: none;
+}
+
+.oetb_combi_wide table {
+    border: 0!important;
+    border-spacing: 0;
+    width: 100%!important;
+}
+
+.oetb_combi_wide td, .oetb_combi_wide tr {
+    border: none!important;
+    padding: 0!important;
+    vertical-align: top;
+}
+
+.oetb_combi_wide .oetb_cell01 {
+    padding-right: 5px!important;
+}
+
+
+.oetb_combi_wide .oetb_cell03 {
+    width: 80px;
+    text-align: right;
+}
+
+.oetb_combi_wide input[type="text"] {
+    width: 100%;
+    padding: 0 0 0 2px;
+    margin: 0;
+    border: 1px solid #666;
+    height: 19px;
+    font-size: 13px!important;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #999!important;
+    line-height: normal!important;
+}
+
+.oetb_combi_wide input[type="image"] {
+    float: right;
+    margin: 0;
+}
+
+/*Single_wide*/
+
+.oetb_single_wide {
+    border: 1px solid #024f99;
+    background: #FFF;
+    padding: 0 0 8px 5px;
+    top: 0;
+    left: 0;
+    min-width: 180px;
+    line-height: normal;
+}
+
+.oetb_single_wide form {
+    margin: 0;
+    padding: 0;
+}
+
+.oetb_single_wide .oetbblue {
+    width: 100%;
+    height: 145px;
+    background: #024f99;
+}
+
+.oetb_single_wide .oetbwhite {
+    height: 63px;
+    width: 100%;
+    background: #fff;
+}
+
+.oetb_single_wide img {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.oetb_single_wide .oetbslogan {
+    margin: 20px 0 0 12px;
+    padding: 5px 0 0 0;
+    width: 88%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #FFF;
+    font-weight: bold;
+}
+
+.oetb_single_wide .oetbentry {
+    margin: 0 10px;
+}
+
+.oetb_single_wide label {
+    display: none;
+}
+
+.oetb_single_wide table {
+    border: 0!important;
+    border-spacing: 0;
+    width: 100%!important;
+}
+
+.oetb_single_wide td, .oetb_single_wide tr {
+    border: none!important;
+    padding: 0!important;
+    vertical-align: top;
+}
+
+.oetb_single_wide .oetb_cell03 {
+    width: 80px;
+    text-align: right;
+}
+
+.oetb_single_wide input[type="text"] {
+    width: 100%;
+    padding: 0 0 0 2px;
+    margin: 0;
+    border: 1px solid #666;
+    height: 19px;
+    font-size: 13px!important;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #999!important;
+    line-height: normal!important;
+}
+
+
+.oetb_single_wide input[type="image"] {
+    float: right;
+    margin: 0;
+}
+
+
+/*Single_mini*/
+
+.oetb_mini {
+}
+
+.oetb_mini form {
+    margin: 0;
+    padding: 0;
+}
+
+
+.oetb_mini label {
+    display: none;
+}
+
+.oetb_mini table {
+    border: 0!important;
+    border-spacing: 0;
+    width: 100%!important;
+}
+
+.oetb_mini td, .oetb_mini tr {
+    border: none!important;
+    padding: 0!important;
+    vertical-align: bottom;
+}
+
+.oetb_mini .oetb_cell03 {
+    width: 80px;
+    text-align: right;
+}
+
+.oetb_mini input[type="text"] {
+    background: url('../img/dasoe_bg1.png') no-repeat 0 0;
+    width: 100%;
+    padding: 0 0 0 2px;
+    margin: 0 !important;
+    border: 1px solid #666;
+    height: 19px;
+    font-size: 13px!important;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #999!important;
+    line-height: normal!important;
+}
+
+
+.oetb_mini input[type="image"] {
+    float: right;
+    margin: 0!important;;
+}
+
