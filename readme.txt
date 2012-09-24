@@ -1,5 +1,5 @@
 ﻿=== Das Örtliche Suchfeld ===
-Contributors: dasoertliche-marketing
+Contributors: DasÖrtliche Service- und Marketinggesellschaft mbH
 Tags: widget, sidebar, Suchfeld, Telefonbuch, Telefonnummer, Adresse, Suche, regional
 Requires at least: 3.0
 Tested up to: 3.4.2
