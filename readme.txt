@@ -20,17 +20,17 @@ Mit dem Suchfeld-Plugin erweitern Sie Ihre Seite um eine eigene, treffsichere Au
 
 = Das Örtliche Suchfeld als Widget =
 
-Über den Adminbereich von WordPress können Sie ver¬schie¬dene Elemente ‒ sogenannte Widgets ‒ direkt in die Sidebar oder auch in den Footer Ihrer Website ziehen. 
+Über den Adminbereich von WordPress können Sie verschiedene Elemente ‒ sogenannte Widgets ‒ direkt in die Sidebar oder auch in den Footer Ihrer Website ziehen. 
 
 Das Suchfeld von Das Örtliche ist ein Widget, das über ein Plugin installiert wird. Ziehen Sie es mit der Maus dorthin, wo es auf Ihrem Blog oder CMS erscheinen soll, und wählen Sie ein Format, das Ihnen zusagt. 
 
 Das Suchfeld im Das Örtliche-Design gibt es wahlweise:
 
-* mit zwei Eingabefeldern (Was/Wo) 
+* mit zwei Eingabefeldern (Was/Wo)  
 Das Ortseingabefeld kann mit Ihrem bevorzugten Suchort vorbelegt werden ‒ besonders passend für Webseiten mit lokalem Bezug. 
-* mit einem einzigen Eingabefeld 
+* mit einem einzigen Eingabefeld  
 Die kombinierte Eingabe von Suchwort und Ort ist möglich.
-* als Mini-Suchfeld im neutralen Design
+* als Mini-Suchfeld im neutralen Design  
 Es ist, bei gleicher Funktionalität, besonders platzsparend und fügt sich unaufdringlich in jedes Webseiten-Design ein.
 
 Für alle Formate kann ein Tastaturkürzel für den Schnellzugriff festgelegt werden.
@@ -47,10 +47,9 @@ Das textintegrierte Suchfeld gibt es in zwei Ausführungen:
 * Suchfeld mit zwei Eingabefeldern:  eingabefelder="2" Ein bevorzugter Ort kann vorbelegt werden: ort="Berlin"
 
 
-Beispiel für einen Makrobefehl:
-
+Beispiel für einen Makrobefehl:  
 Folgender Makrobefehl entspricht einem 250 Pixel breiten Suchfeld mit zwei Eingabefeldern und dem vordefinierten Ort 'Berlin': 
-`[dasoertlichesuchfeld,  eingabefelder="2"  ort="Berlin" breite="250"]`
+`[dasoertlichesuchfeld, eingabefelder="2" ort="Berlin" breite="250"]`
 
 
 == Frequently Asked Questions ==
