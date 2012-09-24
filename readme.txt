@@ -57,7 +57,7 @@ Makrobefehl:	`[dasoertlichesuchfeld,  eingabefelder="2"  ort="Berlin" breite="25
 
 == Frequently Asked Questions ==
 
-Weitere Informationen und häufig gestellte Fragen finden Sie auf der [Plugin-Seite von Das Örtliche].(http://www.dasoertliche.de/downloads/wordpress-plugin/fag/)
+Weitere Informationen und häufig gestellte Fragen finden Sie auf der [Plugin-Seite von Das Örtliche](http://www.dasoertliche.de/downloads/wordpress-plugin/faq/)
 
 == Installation ==
 
